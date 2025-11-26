@@ -31,7 +31,9 @@ $stmt->execute();
         <input type="text" name="q" id="q" />
         <button type="submit">Search</button>
     </form> 
+    <br>
     <a href="index.php">Go Back</a>
+    <a href="addproduct.php">Add New Product</a>
     <br><br>
     <table border="1">
         <thead>
