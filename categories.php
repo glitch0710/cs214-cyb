@@ -31,6 +31,8 @@ $stmt->execute();
         <input type="text" name="q" id="q" />
         <button type="submit">Search</button>
     </form>
+    <br>
+    <a href="addcategory.php">Add New Category</a>
     <br><br>
     <table border="1">
         <thead>
